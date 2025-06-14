@@ -1,11 +1,10 @@
 ---
 title: "Data Science Experience"
-subtitle: "<Name of the Experience>"
-author: "Add your name here"
+subtitle: "Caribbean Studies Association 2025"
+author: "Meredith Casella Jean-Baptiste"
 categories: "Lab"
 
 ---
-
 
 -   [Part 1: Experience data science outside of the classroom](#part-1-experience-data-science-outside-of-the-classroom)
 
@@ -16,11 +15,16 @@ categories: "Lab"
 
 ## Part 1: Experience data science outside of the classroom {#part-1-experience-data-science-outside-of-the-classroom}
 
-Give the information for the experience. 
+Description: This conference took place in St. Martins from the 1-8 June, 2025. I presented preliminary research findings on a mixed methods study we conducted in Haïti as well as a poster on qualitative findings from a separate study. 
+Caribbean Studies Association: https://www.caribbeanstudiesassociation.org/annual-conference-2025/ 
 
 ## Part 2: Summarize your experience {#part-2-summarize-your-experience}
 
-Summary: 
+I learned about climate change impact on Caribbean countries, the economic impact of large national debts on caribbean countries as well as economic and political resiliency as it relates to Millenium Development Goals and Sustainable Development Goals. 
+
+Connection to Info 526: The visualization that best conveyed the climate impact messages through mapping, showed electricity utilization/ technology and greenhouse gas emissions as opposed to countries that are « carbon sinks » for greenhouse gases in the Caribbean. 
+
+The majority of the data visualizations used to convey results were difficult to interpret. Many visualizations included all Caribbean countries on the same line or bar chart which became too busy and hard to interpret. Some examples can be found in the images folder.
 
 
 ## Submission {#submission}
